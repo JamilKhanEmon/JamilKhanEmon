@@ -1,58 +1,122 @@
-# 👋 Hi, I'm Vexyn
+# 👋 Hi, I'm MD. Jamil Khan
 
-🚀 AI Builder | Automation Developer | SaaS Creator  
-💡 Building intelligent tools and AI-powered products  
+🚀 Full-Stack AI Engineer | LLM Systems | Automation & Integrations  
+📍 Dhaka, Bangladesh  
+
+I build **production-grade AI systems, multi-agent workflows, and scalable automation pipelines** using modern LLM stacks.
 
 ---
 
 ## 🧠 About Me
 
-- 🤖 I build **AI tools & automations**
-- ⚡ Creating **SaaS products**
-- 🌐 Working with **APIs, workflows, and AI systems**
-- 🎯 Goal: Build powerful AI platforms
+- 🤖 Full-Stack **AI Engineer working with LLM systems**
+- ⚡ Specialized in **Agentic AI, workflow automation, and AI integrations**
+- 🧩 Building **multi-agent architectures with LangChain, CrewAI, MCP**
+- 📊 Research background in **Machine Learning & Data Science**
+- 🧠 Published researcher in AI/ML
+- 🏆 Competitive programmer  
 
 ---
 
-## ⚡ Live Typing Animation
+## ⚡ Tech Stack
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Builder;Automation+Developer;SaaS+Creator;Building+VexynAI)
+### Programming
+Python • JavaScript • TypeScript • C • C++
 
----
+### AI / LLM Engineering
+OpenAI • Gemini • Groq • HuggingFace  
+LangChain • LangGraph • CrewAI  
+RAG Systems • Prompt Engineering  
+Multi-Agent Systems • MCP
 
-## 📊 GitHub Stats
+### Machine Learning / Deep Learning
+PyTorch • Keras • Scikit-learn  
+NLP • Computer Vision  
+XGBoost • Random Forest • SVM • CNN
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+### Backend & AI Systems
+FastAPI • Flask • Django • Node.js  
+REST APIs • WebSockets • Model Serving
 
----
+### Databases & Vector Search
+PostgreSQL • MySQL • MongoDB  
+Pinecone • Weaviate
 
-## 🔥 GitHub Streak
+### Automation / AI Agents
+n8n • Autonomous Agents  
+API Orchestration • Event Pipelines
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+### DevOps / MLOps
+Docker • Git • GitHub Actions  
+CI/CD • Linux • Nginx  
+Model Deployment & Monitoring
 
----
-
-## 🧰 Tech Stack
-
-![AI](https://img.shields.io/badge/AI-Tools-blue)
-![Automation](https://img.shields.io/badge/Automation-n8n-purple)
-![API](https://img.shields.io/badge/API-Integration-green)
-![SaaS](https://img.shields.io/badge/SaaS-Builder-orange)
-
----
-
-## 🌍 Connect With Me
-
-- 🌐 Website: https://yourwebsite.com
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🐦 Twitter: https://twitter.com/yourname
-
----
-
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+### Cloud Platforms
+AWS • Azure • DigitalOcean • Render
 
 ---
 
-⭐ **Building the future with AI**
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamilKhanEmon&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JamilKhanEmon&theme=tokyonight)
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 ProntoCorso – AI Language Learning Platform
+AI system for **reading, writing, speaking and listening training** with real-time LLM tutor.
+
+Tech: FastAPI • OpenAI • Grok • ElevenLabs • Docker
+
+---
+
+### 🤖 Agentic AI Bill Analysis & Negotiation System
+Multi-agent AI platform analyzing utility bills, detecting anomalies, and negotiating with providers automatically.
+
+Tech: Python • CrewAI • OCR • WebSockets • PostgreSQL
+
+---
+
+### 📊 Sports AI Prediction System
+ML/DL models predicting win probabilities for **MLB, NFL, UFC and Basketball games**.
+
+Tech: XGBoost • LSTM • FastAPI • GoalServe API
+
+---
+
+### 🔮 Cosmic Horoscope AI
+Dual astrology AI generating synchronized **Western & Chinese horoscope insights**.
+
+Tech: FastAPI • OpenAI • Flatlib • Docker
+
+---
+
+# 📚 Publications
+
+📄 Harmonization of Heart Disease Dataset for Accurate Diagnosis  
+Published in **CMC (SCI Q2 Journal)**
+
+📖 Learn C Programming – Published Book (ISBN)
+
+---
+
+# 🌍 Connect With Me
+
+🌐 Portfolio  
+https://jamilkhanemon.vercel.app
+
+💼 LinkedIn  
+https://linkedin.com/in/jamilkhanemon
+
+📧 Email  
+jamilkhanemon@gmail.com
+
+🐙 GitHub  
+https://github.com/JamilKhanEmon
