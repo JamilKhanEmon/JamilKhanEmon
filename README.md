@@ -4,20 +4,15 @@
 
 <br/>
 
-```
- ██╗ █████╗ ███╗   ███╗██╗██╗         ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
- ██║██╔══██╗████╗ ████║██║██║         ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
- ██║███████║██╔████╔██║██║██║         █████╔╝ ███████║███████║██╔██╗ ██║
- ██║██╔══██║██║╚██╔╝██║██║██║         ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
- ██║██║  ██║██║ ╚═╝ ██║██║███████╗    ██║  ██╗██║  ██║██║  ██║██║ ╚████║
- ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=JAMIL+KHAN+%E2%80%94+AI+ENGINEER" alt="Name Banner"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=%2F%2F+Full-Stack+AI+Engineer;%2F%2F+LLM+Systems+%7C+Agentic+AI+%7C+Automation;%2F%2F+Building+production+AI+from+Dhaka+BD;%2F%2F+SCI+Q2+Published+Researcher" alt="Typing"/>
 
 <br/>
 
-![](https://img.shields.io/badge/Node-AI_Engineer_@_Softvence-38bdf8?style=flat-square&labelColor=0f172a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMzOGJkZjgiLz48L3N2Zz4=)
+![](https://img.shields.io/badge/Node-AI_Engineer_@_Softvence-38bdf8?style=flat-square&labelColor=0f172a)
 ![](https://img.shields.io/badge/Node-Dhaka%2C_Bangladesh-10b981?style=flat-square&labelColor=0f172a)
 ![](https://img.shields.io/badge/Node-SCI_Q2_Researcher-8b5cf6?style=flat-square&labelColor=0f172a)
 ![](https://img.shields.io/badge/Node-CGPA_3.67%2F4.00-f59e0b?style=flat-square&labelColor=0f172a)
@@ -146,6 +141,7 @@ timeline: Q3 2025
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f172a?style=flat-square&logoColor=38bdf8)
 ![MCP](https://img.shields.io/badge/MCP-0f172a?style=flat-square&logoColor=38bdf8)
 ![RAG](https://img.shields.io/badge/RAG_Systems-0f172a?style=flat-square&logoColor=white)
 
@@ -157,6 +153,7 @@ timeline: Q3 2025
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **ML and Deep Learning**
 
@@ -165,6 +162,7 @@ timeline: Q3 2025
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-38bdf8?style=flat-square&labelColor=0f172a)
 
 **Cloud and DevOps**
 
@@ -174,6 +172,7 @@ timeline: Q3 2025
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6B35?style=flat-square&logoColor=white)
 
 </div>
 
@@ -189,6 +188,10 @@ timeline: Q3 2025
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=JamilKhanEmon&theme=github-dark-blue&hide_border=true&background=0f172a&ring=38bdf8&fire=8b5cf6&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JamilKhanEmon&bg_color=0f172a&color=38bdf8&line=8b5cf6&point=38bdf8&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -215,7 +218,17 @@ timeline: Q3 2025
 
 ---
 
-## `06` // Uplink Channels
+## `06` // GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JamilKhanEmon&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
+
+---
+
+## `07` // Uplink Channels
 
 <div align="center">
 
