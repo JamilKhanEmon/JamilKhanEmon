@@ -4,14 +4,9 @@
 
 <br/>
 
-```
- ██╗ █████╗ ███╗   ███╗██╗██╗         ██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗
- ██║██╔══██╗████╗ ████║██║██║         ██║ ██╔╝██║  ██║██╔══██╗████╗  ██║
- ██║███████║██╔████╔██║██║██║         █████╔╝ ███████║███████║██╔██╗ ██║
- ██║██╔══██║██║╚██╔╝██║██║██║         ██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║
- ██║██║  ██║██║ ╚═╝ ██║██║███████╗    ██║  ██╗██║  ██║██║  ██║██║ ╚████║
- ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=JAMIL+KHAN+%E2%80%94+AI+ENGINEER" alt="Name Banner"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=%2F%2F+Full-Stack+AI+Engineer;%2F%2F+LLM+Systems+%7C+Agentic+AI+%7C+Automation;%2F%2F+Building+production+AI+from+Dhaka+BD;%2F%2F+SCI+Q2+Published+Researcher" alt="Typing"/>
 
@@ -227,7 +222,7 @@ timeline: Q3 2025
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JamilKhanEmon&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JamilKhanEmon&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
