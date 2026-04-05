@@ -221,10 +221,7 @@ timeline: Q3 2025
 ## `06` // GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JamilKhanEmon&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JamilKhanEmon&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JamilKhanEmon&show_icons=true&theme=github_dark"/>
 </p>
 
 ---
