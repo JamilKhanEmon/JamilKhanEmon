@@ -216,16 +216,7 @@ timeline: Q3 2025
      Link   : elivapress.com/en/book/book-5799919985/
 ```
 
----
-
-## `06` // GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamilKhanEmon&layout=compact&theme=github_dark"/>
-</p>
----
-
-## `07` // Uplink Channels
+## `06` // Uplink Channels
 
 <div align="center">
 
