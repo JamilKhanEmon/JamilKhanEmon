@@ -31,7 +31,7 @@ class JamilKhan:
     name      = "MD. Jamil Khan"
     role      = "Full-Stack AI Engineer"
     location  = "Dhaka, Bangladesh"
-    education = "BSc CSE — Metropolitan University (CGPA 3.67)"
+    education = "BSc CSE — Metropolitan University"
     status    = "AI Engineer @ Softvence — Nov 2025 to Present"
 
     llm       = ["OpenAI", "Gemini", "Groq", "HuggingFace"]
